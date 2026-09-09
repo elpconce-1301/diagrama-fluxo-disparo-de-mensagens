@@ -91,6 +91,7 @@ Este repositório funciona como uma base de contexto arquitetural para agentes d
 
 - [Prompts/Prompt 2 - Geração de Diagrama de sequência.md](Prompts/Prompt%202%20-%20Gera%C3%A7%C3%A3o%20de%20Diagrama%20de%20sequ%C3%AAncia.md): prompt para a geração do diagrama de sequência da jornada crítica.
 - [docs/Saída Prompt 1.1.md](docs/Sa%C3%ADda%20Prompt%201.1.md): saída do segundo prompt com lacunas, roteiro, diagrama e checklist.
+- [docs/Saída Prompt 2.md](docs/Sa%C3%ADda%20Prompt%202.md): saída do diagrama de sequência com lacunas, roteiro, fluxo principal e checklist.
 
 ## Observações finais
 
