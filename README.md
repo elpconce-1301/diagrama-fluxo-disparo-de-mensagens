@@ -82,9 +82,15 @@ Este repositório funciona como uma base de contexto arquitetural para agentes d
 
 ## Estrutura do repositório
 
-- [Prompts](Prompts): prompts utilizados para orientar geração e revisão dos diagramas.
+- [Prompts](Prompts): prompts utilizados para orientar geração e revisão dos diagramas, incluindo prompts de arquitetura C4 e de sequência.
 - [Arquitetura](Arquitetura): arquivos diagramáticos e versões do modelo C4.
+- [docs](docs): saídas e documentos gerados a partir dos prompts, incluindo consolidações do fluxo revisado e do diagrama de sequência.
 - [README.md](README.md): visão geral e contexto do projeto para revisão e manutenção.
+
+## Artefatos adicionais
+
+- [Prompts/Prompt 2 - Geração de Diagrama de sequência.md](Prompts/Prompt%202%20-%20Gera%C3%A7%C3%A3o%20de%20Diagrama%20de%20sequ%C3%AAncia.md): prompt para a geração do diagrama de sequência da jornada crítica.
+- [docs/Saída Prompt 1.1.md](docs/Sa%C3%ADda%20Prompt%201.1.md): saída do segundo prompt com lacunas, roteiro, diagrama e checklist.
 
 ## Observações finais
 
